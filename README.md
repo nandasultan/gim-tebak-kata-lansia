@@ -42,7 +42,7 @@ Script ini bisa ditempel ke project **Unity Android** milikmu, lalu digabung den
 
 ## 📥 Cara Mencoba Game
 
-1. Download file `Game.apk` dari [Release](#)
+1. Download file `Game.apk` dari [Release](https://github.com/nandasultan/gim-tebak-kata-lansia/releases/tag/v1.0.0)
 2. Install di perangkat Android (aktifkan **Install from Unknown Sources** jika perlu)
 3. Mainkan dan nikmati! 🎯
 
@@ -71,6 +71,3 @@ Terima kasih atas perhatian dan dukunganmu!
 - Script ini bersifat **open for learning and experimentation**.
 - Dilarang digunakan untuk tujuan komersial tanpa izin tertulis dari pemilik.
 
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=100&section=footer)
