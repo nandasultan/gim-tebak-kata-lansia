@@ -6,7 +6,7 @@ Game ini dikembangkan dengan **Unity** menggunakan bahasa **C#**, dan ditujukan 
 ## Tentang Proyek
 
 Game edukatif ini adalah bagian dari tugas akhir (skripsi) berjudul _“Perancangan Gim Tebak Kata Untuk Lansia”_. Game ini dirancang menggunakan metode ADDIE untuk membantu melatih kemampuan kognitif lansia secara interaktif. Hasil penelitian dapat dibaca di jurnal berikut:  
-📖 [Perancangan Gim Tebak Kata Untuk Lansia (OJS Uniska)](https://ojs.uniska-bjm.ac.id/index.php/JIT/article/view/15336) :contentReference[oaicite:0]{index=0}
+📖 [Perancangan Gim Tebak Kata Untuk Lansia (OJS Uniska)](https://ojs.uniska-bjm.ac.id/index.php/JIT/article/view/15336)
 
 ## Tujuan Repositori
 
